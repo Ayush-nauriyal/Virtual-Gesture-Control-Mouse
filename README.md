@@ -19,9 +19,4 @@ No dataset used
 -- our project make use of webcam to detect the hand and according to its movement it moves the mouse without physically touching the mouse
 
 
-made by-
-AYUSH NAURIYAL
-102003570
 
-DIVYAM ARORA
-102003579
